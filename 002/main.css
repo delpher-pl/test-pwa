@@ -13,6 +13,7 @@ body {
                         hsla(0,80%,80%,0.16) 60%,
                         hsla(0,80%,80%,0) 95%);
   color: #ccc;
+  border: 1px solid #f00;
 }
 
 .main-text {
