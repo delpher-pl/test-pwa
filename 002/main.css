@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 body {
   display: flex;
@@ -13,7 +18,7 @@ body {
                         hsla(0,80%,80%,0.16) 60%,
                         hsla(0,80%,80%,0) 95%);
   color: #ccc;
-  border: 1px solid #f00;
+  height: 100vh;
 }
 
 .main-text {
